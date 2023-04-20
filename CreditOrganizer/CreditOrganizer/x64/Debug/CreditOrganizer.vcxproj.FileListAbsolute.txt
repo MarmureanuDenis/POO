@@ -1,0 +1,2 @@
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\CreditOrganizer\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\CreditOrganizer\CreditOrganizer\x64\Debug\CreditOrganizer.vcxproj.SuggestedBindingRedirects.cache
