@@ -1,0 +1,4 @@
+﻿  CppCLR_WinFormsProject.cpp
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\Calculator.S5\Calculator.S5\Form1.h(244,2): error C2065: 'currentCalculation': undeclared identifier
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\Calculator.S5\Calculator.S5\Form1.h(244,32): error C2146: syntax error: missing ')' before identifier 'as'
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\Calculator.S5\Calculator.S5\Form1.h(247,23): error C2065: 'currentCalculation': undeclared identifier

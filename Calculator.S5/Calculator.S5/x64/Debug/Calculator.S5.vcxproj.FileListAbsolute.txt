@@ -1,0 +1,4 @@
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\Calculator.S5\Calculator.S5\x64\Debug\Calculator.S5.vcxproj.AssemblyReference.cache
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\Calculator.S5\Calculator.S5\x64\Debug\Calculator.S5.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\Calculator.S5\Calculator.S5\x64\Debug\Calculator_S5.Form1.resources
+C:\Users\denis\OneDrive\Desktop\MARMUREANU_DENIS-CONSTANTIN_A3\Calculator.S5\Calculator.S5\x64\Debug\Calculator.S5.vcxproj.GenerateResource.cache
